@@ -1,6 +1,8 @@
-#🏥 Sistem Informasi Klinik (App-Klinik-PBO)
-Aplikasi ini adalah sistem manajemen klinik sederhana yang dibangun dengan Java Desktop (Apache NetBeans & Maven). Sistem ini dirancang untuk memudahkan staf klinik dalam mengelola data pasien, dokter, dan perawat secara efisien dan terorganisir.
+# 🏥 Sistem Informasi Klinik (`App-Klinik-PBO`)
 
+<font size="4">Aplikasi ini adalah sistem manajemen klinik sederhana yang dibangun dengan **Java Desktop (Apache NetBeans & Maven)**. Sistem ini dirancang untuk memudahkan staf klinik dalam mengelola data pasien, dokter, dan perawat secara efisien dan terorganisir.</font>
+
+---
 ##🚀 Keseluruhan Fitur
 Sistem ini dilengkapi dengan fitur-fitur utama untuk operasional klinik:
 - <font size="4">**Autentikasi Aman:** Sistem login berbasis role untuk memastikan hanya staf berwenang yang dapat mengakses data.</font>
